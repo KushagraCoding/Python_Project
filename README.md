@@ -11,14 +11,18 @@
 
 
 `Python Projects Overview`
+
 This repository contains three beginner-to-intermediate level projects designed to help you learn and practice Python programming, GUI development, 
 and basic AI techniques. Each project builds on different aspects of Python, providing a well-rounded introduction to practical applications of the language.
 
 `Table of Contents`
 
 Task 1: Simple Registration Form Using Tkinter
+
 Task 2: Building a Chatbot Using Python
+
 Task 3: Creating GUI to Extract Lyrics from Songs Using Python
+
 Task 1: Simple Registration Form Using Tkinter
 
 `Overview`
