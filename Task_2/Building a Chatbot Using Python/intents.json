@@ -2,11 +2,11 @@ import re
 import random
 
 class RuleBot:
-  ### Potential Negative Responses
+  #Potential Negative Responses
   negative_responses = ("no", "nope", "nah", "naw", "not a chance", "sorry")
-  ### Exit conversation keywords
+  #Exit conversation keywords
   exit_commands = ("quit", "pause", "exit", "goodbye", "bye", "later")
-  ### Random starter questions
+  #Random starter questions
   random_questions = (
     "Why are you here?",
     "Are there many humans like you?",
